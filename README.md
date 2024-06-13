@@ -19,3 +19,5 @@ Edit or delete transactions using the provided options.
 
 The application stores transactions locally using localStorage for persistence across sessions.
 
+![image](https://github.com/Harshjangid015/Expense-Tracker/assets/160697094/bbb42e62-30cb-422d-8247-19470321ae9d)
+
